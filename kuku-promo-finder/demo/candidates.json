@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "promos": [
+    {
+      "id": "ep051-promo-01",
+      "segments": [
+        {
+          "episode_id": "ep051",
+          "start_beat_id": "ep051-s01-b001",
+          "end_beat_id": "ep051-s01-b007"
+        }
+      ],
+      "hook": {
+        "beat_id": "ep051-s01-b001",
+        "explanation": "The promo opens immediately with a distressed voice stating, \"Someone is locked inside the archive.\""
+      },
+      "cliffhanger": {
+        "beat_id": "ep051-s01-b007",
+        "explanation": "The cliffhanger leaves the viewer wondering if the person trapped inside the archive is in danger from someone named 'him' and if that person is standing right next to the guard."
+      },
+      "why_it_works": "This promo creates immediate urgency and mystery by presenting a dangerous situation with conflicting advice and a shocking revelation at the end.",
+      "standalone_context": "A viewer can understand that there's an emergency in a museum archive, with someone trapped inside, and the guard has to make a quick, potentially dangerous decision under pressure."
+    }
+  ]
+}

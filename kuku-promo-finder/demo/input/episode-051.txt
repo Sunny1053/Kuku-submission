@@ -1,0 +1,46 @@
+﻿EPISODE NUMBER: Episode 51
+EPISODE LOGLINE: A museum guard has seconds to decide whether to open a locked archive.
+CONTINUITY NOTES: Original synthetic test. No preceding episode is required.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. MUSEUM ARCHIVE - NIGHT
+Scene start: 00:00.00
+Scene end: 00:26.00
+
+Actions and dialogue:
+
+**GUARD (Alarmed):**
+Start: (00:00.00) | End: (00:02.00)
+"Someone is locked inside the archive."
+
+**ACTION:**
+Start: (00:02.00) | End: (00:05.00)
+The guard finds fresh scratches on the lock and reaches for the key.
+
+**CONSERVATOR:**
+Start: (00:05.00) | End: (00:09.00)
+"If you turn that key, the fire shutters will close. We could both be trapped."
+
+**ACTION:**
+Start: (00:09.00) | End: (00:12.00)
+The guard tries the radio. Only static comes through.
+
+**GUARD:**
+Start: (00:12.00) | End: (00:16.00)
+"There's no time to wait. Smoke is coming under the door."
+
+**ACTION:**
+Start: (00:16.00) | End: (00:21.00)
+The conservator braces the fire shutter while the guard slides the key into the lock.
+
+**VOICE INSIDE:**
+Start: (00:21.00) | End: (00:25.00)
+"Wait! I locked myself in here to keep him out. Is he standing beside you?"
+
+**CAMERA:**
+Start: (00:25.00) | End: (00:26.00)
+The guard turns toward the conservator. Cut before the guard can see his face.
+
+--- SCRIPT END ---

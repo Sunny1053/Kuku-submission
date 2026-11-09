@@ -1,0 +1,16 @@
+{
+  "reviews": [
+    {
+      "key": "bf4a04c67bfed5e7",
+      "hook_score": 5,
+      "clarity_score": 5,
+      "cliffhanger_score": 5,
+      "decision": "shortlist",
+      "rationale": "This clip opens with an immediate mystery and threat. The escalating tension between the characters and the unknown danger inside the archive creates a compelling narrative. The final question leaves the viewer desperate for resolution.",
+      "hook": "Someone is locked inside the archive, and smoke is starting to come under the door.",
+      "cliffhanger": "Is the person the trapped individual is hiding from standing next to the guard?",
+      "why_it_works": "The clip effectively establishes a life-or-death situation with clear stakes: a trapped person, a ticking clock, and an unseen threat. The dialogue creates immediate conflict and suspense.",
+      "standalone_context": "A guard discovers someone locked in an archive with smoke seeping under the door. The conservator warns against opening it, fearing they'll be trapped by fire shutters. Communication is cut off."
+    }
+  ]
+}
